@@ -2,8 +2,8 @@ This is a backend application for managing users, courses, and purchases. It is 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gurvinder-Singh02/full-stack-backend.git
-   cd your-full-stack-backend
+   git clone https://github.com/Gurvinder-Singh02/Course-Backend.git
+   cd Course-Backend
    ```
 
 2. Install dependencies:
